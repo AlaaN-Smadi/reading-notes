@@ -1,4 +1,5 @@
 #      Groth Mindset
+[Read One Page](read01)
 ### It's the ability to develop your mind to achieve new creatings 
 ### To achieve this mind ; you should be able to :
 ###                     
