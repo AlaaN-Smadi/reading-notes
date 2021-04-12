@@ -10,7 +10,7 @@
 ###                 
 ***4. Criticism***
 ###
-## We must now that the life is not easy , so we have to challenge everythings and be patient and hard working people to convert our dream into reality 
+#### We must now that the life is not easy , so we have to challenge everythings and be patient and hard working people to convert our dream into reality 
 
 #      Fainally
-## We should not make the same daily routine and try to make something new every day to make our life more beautiful
+##### We should not make the same daily routine and try to make something new every day to make our life more beautiful
