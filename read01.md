@@ -11,4 +11,4 @@
  Persists | Loses Focus
  Leans From | Ignores
  
- [Go Back](https://alaan-smadi.github.io/reading-notes/README)
+ [Go Back](README)
