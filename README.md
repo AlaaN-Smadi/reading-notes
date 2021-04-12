@@ -17,5 +17,6 @@
 ##### We should not make the same daily routine and try to make something new every day to make our life more beautiful
 
 
+
 #      References
 [Groth Midnset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
