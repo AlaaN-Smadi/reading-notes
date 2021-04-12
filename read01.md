@@ -5,7 +5,7 @@
 ###
 ###  Here we have a compare table between Fix and growth mindset
 ###
- **GROWTH** | **FIX**
+ _GROWTH_ | _FIX_
 ------------ | -------------
  Embraces | Avoids
  Persists | Loses Focus
